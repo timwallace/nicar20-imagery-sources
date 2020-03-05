@@ -44,7 +44,7 @@ Sources for earth imagery
 * [**Descartes Labs**](https://www.descarteslabs.com/)
   * Platform access for journalists is in development
   * In the meantime, fire off a note to pr@descarteslabs.com 
-  * Better for large scale analysis than raw imagery 
+  * Better for large scale analysis than access to raw imagery 
   * Examples of work done with journalists: [Foliage](https://www.washingtonpost.com/graphics/2019/national/fall-foliage-atlas/), [Cranberries](https://www.nationalgeographic.com/history/2019/11/united-states-cranberry-harvest-explained-charts/), [Urban Change](https://www.nytimes.com/interactive/2019/12/27/upshot/america-from-above.html)
 * [**Planet**](https://www.planet.com/)
   * High temporal resolution
