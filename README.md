@@ -51,7 +51,6 @@ Sources for earth imagery
   * High temporal resolution
   * Relatively high spatial resolution
   * Relatively low spectral resolution
-  * Easy to use interface; very helpful folks
 * [**Maxar**](https://www.maxar.com/)
 	* High resolution RGB and synthetic-aperture radar data.
   * Cannot always share 
