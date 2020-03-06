@@ -1,6 +1,23 @@
 # nicar20-imagery-sources
 Sources for earth imagery 
 
+## Data and Imagery Viewers
+* [Colorado State University RAMMB Slider](https://rammb-slider.cira.colostate.edu)
+	* GOES 16/17 and Himawari
+* [NOAA View](https://www.nnvl.noaa.gov/view/globaldata.html)
+	* Daily ocean, land and atmospheric data
+* [NASA Worldview](https://worldview.earthdata.nasa.gov/)
+	* Satellite data cornucopia
+* [University of Wisconsin-Madison SSEC/CIMSS RealEarth](https://realearth.ssec.wisc.edu/)
+	* Satellite data cornucopia
+* [Resource Watch](https://resourcewatch.org/data/explore)
+	* Hundreds of data sets, many of them climate related
+* [Global Forest Watch](https://www.globalforestwatch.org/map)
+	* Data and tools for monitoring forests
+* [Planet.parts](https://planet.parts/)
+	* Curated by [Charlie Loyd](https://twitter.com/vruba/)
+	* It is the most comprehensive list of near-realtime Earth observation resources out there.
+
 ## Direct data sources
 
 * [**USGS Earth Explorer**](https://earthexplorer.usgs.gov)
