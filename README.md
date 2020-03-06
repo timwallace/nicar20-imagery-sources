@@ -25,6 +25,7 @@ Sources for earth imagery
   * Sentinel-1 synthetic-aperture radar
   * Sentinel-2 (like Landsat)
   * Sentinel-3 (like MODIS or VIIRS)
+  * [Sentinel-5P](https://earth.esa.int/web/guest/missions/esa-eo-missions/sentinel-5p) (greenhouse gas data)
 
 * [**NASA EARTHDATA**](https://earthdata.nasa.gov/)
   * Countless data products—go hunting!
