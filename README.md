@@ -40,7 +40,7 @@ Sources for earth imagery
   * GOES-R
   * Not the easiest to use
   
-* [**ESA's Sentinel Hub**](https://scihub.copernicus.eu/dhus/#/home)
+* [**Copernicus Open Access Hub**](https://scihub.copernicus.eu/dhus/#/home)
   * Sentinel-1 synthetic-aperture radar
   * Sentinel-2 (like Landsat)
   * Sentinel-3 (like MODIS or VIIRS)
