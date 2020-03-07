@@ -79,3 +79,5 @@ Sources for earth imagery
   * Plan for high temporal resolution
   * Relatively high spatial resolution
   * Relatively low spectral resolution
+  
+<sup>P.S. Hate clicking through dozens of links to figure out what the heck I'm talking about? Check out [Joe Morrison's](https://twitter.com/mouthofmorrison) excellent post on [How to Find the Most Recent Satellite Imagery Anywhere on Earth.](https://www.azavea.com/blog/2020/01/02/how-to-find-the-most-recent-satellite-imagery/)<sub>
