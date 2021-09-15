@@ -4,8 +4,6 @@ Sources for earth imagery
 ## Data and Imagery Viewers
 * [Colorado State University RAMMB Slider](https://rammb-slider.cira.colostate.edu)
 	* GOES 16/17 and Himawari
-* [Remote Pixel](https://search.remotepixel.ca/#3/40/-70.5)
-	* Landsat 8 and Sentinel-2, with links to data sources.
 * [NOAA View](https://www.nnvl.noaa.gov/view/globaldata.html)
 	* Daily ocean, land and atmospheric data
 * [NASA Worldview](https://worldview.earthdata.nasa.gov/)
